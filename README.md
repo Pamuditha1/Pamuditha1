@@ -15,5 +15,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pamuditha1&show_icons=true&locale=en&layout=compact&langs_count=6" alt="pamuditha1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pamuditha1&show_icons=true&locale=en&hide=stars,issues&count_private=true&include_all_commits=true" alt="pamuditha1" /></p>
+<p>&nbsp;<img align="center" style="display: inline-block" src="https://github-readme-stats.vercel.app/api?username=pamuditha1&show_icons=true&locale=en&hide=stars,issues&count_private=true&include_all_commits=true" alt="pamuditha1" /></p>
 
