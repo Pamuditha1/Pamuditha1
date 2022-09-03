@@ -15,5 +15,5 @@
 
 <p style="width: 100%">
     <p><img align="center" style="width: 50%; margin: auto; display: inline" src="https://github-readme-stats.vercel.app/api/top-langs?username=pamuditha1&show_icons=true&locale=en&layout=compact" alt="pamuditha1" /></p>
-    <p><img align="center" style="width: 50%; margin: auto; display: inline" src="https://github-readme-stats.vercel.app/api?username=pamuditha1&show_icons=true&locale=en&hide=stars,issues" alt="pamuditha1" /></p>
+    <p><img align="center" style="width: 50%; margin: auto; display: inline" src="https://github-readme-stats.vercel.app/api?username=pamuditha1&show_icons=true&locale=en&hide=stars,issues&count_private=true" alt="pamuditha1" /></p>
 </p>
