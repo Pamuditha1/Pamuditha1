@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pamuditha</h1>
-<h3 align="center">A passionate full-stack (JavaScript) developer from Sri Lanka</h3>
+<h3 align="center">A passionate full-stack (JavaScript) developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pamuditha1&label=Profile%20views&color=0e75b6&style=flat" alt="pamuditha1" /> </p>
 
